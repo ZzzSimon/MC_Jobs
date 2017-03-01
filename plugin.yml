@@ -1,0 +1,7 @@
+name: RPGjobs
+main: RPGjobs.RPGjobs
+version: 2.2.5
+author: Zzz
+commands:
+  jobs:
+    usage: 欢迎使用氏族插件——write by Zzz
